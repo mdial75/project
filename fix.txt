@@ -1,4 +1,9 @@
+# fix.txt
 This is some dummy text.
 
+<<<<<<< HEAD
 this was edited in branch:master
+=======
+fix that bug.
+>>>>>>> bug-fix
 
